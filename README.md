@@ -1,4 +1,5 @@
-![github-header-image (10)](https://github.com/user-attachments/assets/1627a927-a2ab-427b-853a-8d9e84bda37c)
+![github-header-image (2)](https://github.com/user-attachments/assets/87364aea-b3c5-4e8d-b1b5-a645606fef05)
+
 
 hey, i'm darren. 
 

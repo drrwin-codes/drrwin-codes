@@ -9,7 +9,7 @@
 
 * hey, i'm darren!
   
-* interests lie at the intersection of biomhemistry research and AI/ML implementation. 
+* interests lie at the intersection of biochemistry research and AI/ML implementation. 
 * a triathlete and gym enthusiast :)
 * In my free time, I enjoy talking with friends, playing video games, and going outside.
 

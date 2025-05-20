@@ -99,8 +99,14 @@
   <img align="right" height="200" width="125" src="https://cdn.shopify.com/s/files/1/2075/2531/t/56/assets/bouncingarrows-1674136865893.gif?v=1674136867"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drrwin-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
+<br>
+<br>
+<h1 align="left">Contributions</h1>
+<div align="left">
 
+  ![snake_gif](https://github.com/drrwin-codes/drrwin-codes/blob/output/github-snake-dark.svg)
 
+</div>
 
 
 

@@ -9,9 +9,9 @@
 
 * hey, i'm darren!
   
-* interests lie at the intersection of biochemistry research and AI/ML implementation. 
-* a triathlete and gym enthusiast :)
-* In my free time, I enjoy talking with friends, playing video games, and going outside.
+* interests lie in drug discovery work in combination with ai/ml
+* a triathlete hoping to do an ironman 140.6 before graduation
+* in my free time, i love exploring and hanging out with my amigos
 
 * if you're interested in collaborating, feel free to reach out to me: darren.dp.phan@gmail.com
 <br>
